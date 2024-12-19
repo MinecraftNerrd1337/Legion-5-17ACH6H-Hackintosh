@@ -83,6 +83,7 @@
 | HDMI | Connected to dGPU, nothing can be done about this. | ❌
 | USB C video out | Connected to dGPU, nothing can be done about this. | ❌
 | Sleep / Wake | Work in progress, needs testing | ⚠️
+| USB Map | May or may not work, **needs to be replaced by map made on the 17" model** | ⚠️
 
 
 
